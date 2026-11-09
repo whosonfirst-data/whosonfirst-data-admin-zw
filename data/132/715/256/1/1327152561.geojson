@@ -48,7 +48,7 @@
         "wk:page":"Colleen_Bawn"
     },
     "wof:country":"ZW",
-    "wof:geomhash":"0f7460f307b2376ecbe4aba562df1de5",
+    "wof:geomhash":"b5cc7b16145cc0afbd1361d3752098aa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -74,5 +74,5 @@
     29.21667,
     -21.0
 ],
-  "geometry": {"coordinates":[29.21667,-21.0],"type":"Point"}
+  "geometry": {"coordinates":[29.21667,-21],"type":"Point"}
 }

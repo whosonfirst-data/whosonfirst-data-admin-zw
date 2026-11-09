@@ -48,7 +48,7 @@
         "wk:page":"Tengwe"
     },
     "wof:country":"ZW",
-    "wof:geomhash":"d77c7b994a980aa031b949eba57cc9dc",
+    "wof:geomhash":"33d42aabcffd319337d5bb6f6ceb6190",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -74,5 +74,5 @@
     29.69709000000001,
     -16.40557
 ],
-  "geometry": {"coordinates":[29.69709000000001,-16.40557],"type":"Point"}
+  "geometry": {"coordinates":[29.69709,-16.40557],"type":"Point"}
 }

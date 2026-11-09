@@ -51,7 +51,7 @@
         "wk:page":"West_Nicholson"
     },
     "wof:country":"ZW",
-    "wof:geomhash":"eda8870443358ad3814a64d534db2b29",
+    "wof:geomhash":"b6c38e03a71a79ee7db9a5ff20dc46e1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,5 +77,5 @@
     29.36667000000001,
     -21.06667
 ],
-  "geometry": {"coordinates":[29.36667000000001,-21.06667],"type":"Point"}
+  "geometry": {"coordinates":[29.36667,-21.06667],"type":"Point"}
 }

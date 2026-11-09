@@ -51,7 +51,7 @@
         "wk:page":"Buhera"
     },
     "wof:country":"ZW",
-    "wof:geomhash":"3af9ecfbe1d4830cb8ba0312667a065e",
+    "wof:geomhash":"ac4fb5101c2f855d0fe5293ce66a312d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,5 +77,5 @@
     31.43959000000001,
     -19.32082
 ],
-  "geometry": {"coordinates":[31.43959000000001,-19.32082],"type":"Point"}
+  "geometry": {"coordinates":[31.43959,-19.32082],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Charara"
     },
     "wof:country":"ZW",
-    "wof:geomhash":"9d1654eec9408a1de88a911f78b7bbf5",
+    "wof:geomhash":"a1976739b9d9f27377a9ec7965d30911",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -74,5 +74,5 @@
     28.95179000000001,
     -16.54977
 ],
-  "geometry": {"coordinates":[28.95179000000001,-16.54977],"type":"Point"}
+  "geometry": {"coordinates":[28.95179,-16.54977],"type":"Point"}
 }

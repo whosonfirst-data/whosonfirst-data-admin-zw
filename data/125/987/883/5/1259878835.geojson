@@ -45,7 +45,7 @@
         "wk:page":"Gadzema"
     },
     "wof:country":"ZW",
-    "wof:geomhash":"1418770681be3dba864bda472ece1cb3",
+    "wof:geomhash":"dde0b9dfe5f3e1321d8314a66a1e0bc9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -71,5 +71,5 @@
     30.15974000000001,
     -18.04223
 ],
-  "geometry": {"coordinates":[30.15974000000001,-18.04223],"type":"Point"}
+  "geometry": {"coordinates":[30.15974,-18.04223],"type":"Point"}
 }

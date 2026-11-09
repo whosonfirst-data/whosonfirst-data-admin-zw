@@ -143,7 +143,7 @@
         "gn:id":895326
     },
     "wof:country":"ZW",
-    "wof:geomhash":"6139aa4d7ce84fb68056b4521f76bc20",
+    "wof:geomhash":"18af0ef2e84ba1b051ac1c0ae099c1b5",
     "wof:hierarchy":[
         {
             "country_id":85632243,
@@ -166,5 +166,5 @@
     31.03333,
     -17.36667000000001
 ],
-  "geometry": {"coordinates":[31.03333,-17.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[31.03333,-17.36667],"type":"Point"}
 }

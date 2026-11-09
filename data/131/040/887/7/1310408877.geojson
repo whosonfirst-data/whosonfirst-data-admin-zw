@@ -48,7 +48,7 @@
         "wk:page":"Munyati"
     },
     "wof:country":"ZW",
-    "wof:geomhash":"e4b7b546bba5be028401c0c48d870969",
+    "wof:geomhash":"3537b10ccbdea4396c4129beda169c87",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -74,5 +74,5 @@
     29.7846,
     -18.65777000000001
 ],
-  "geometry": {"coordinates":[29.7846,-18.65777000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.7846,-18.65777],"type":"Point"}
 }

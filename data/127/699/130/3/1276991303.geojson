@@ -50,7 +50,7 @@
         "wk:page":"Musweswenedi"
     },
     "wof:country":"ZW",
-    "wof:geomhash":"b87a6388526ad945b85eef8173f91b58",
+    "wof:geomhash":"1664484be5a898d07f2747a87ca7052a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,5 +76,5 @@
     30.9,
     -17.13332999999999
 ],
-  "geometry": {"coordinates":[30.9,-17.13332999999999],"type":"Point"}
+  "geometry": {"coordinates":[30.9,-17.13333],"type":"Point"}
 }

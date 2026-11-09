@@ -42,7 +42,7 @@
         "wk:page":"Chatsworth%2C_Zimbabwe"
     },
     "wof:country":"ZW",
-    "wof:geomhash":"239a6e5f2b3299a336ae70b1954d331e",
+    "wof:geomhash":"c8208dae28f4ffd44a1f007ac3967c51",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     30.83749000000001,
     -19.6266
 ],
-  "geometry": {"coordinates":[30.83749000000001,-19.6266],"type":"Point"}
+  "geometry": {"coordinates":[30.83749,-19.6266],"type":"Point"}
 }

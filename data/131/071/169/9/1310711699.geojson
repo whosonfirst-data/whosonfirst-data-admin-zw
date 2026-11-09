@@ -52,7 +52,7 @@
         "wk:page":"Maramani"
     },
     "wof:country":"ZW",
-    "wof:geomhash":"7921fa067b8b52eb3f35a7d5b42792a6",
+    "wof:geomhash":"af4a2ce7aac44b7b08047bc916b7a199",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,5 +78,5 @@
     29.36667000000001,
     -22.01667
 ],
-  "geometry": {"coordinates":[29.36667000000001,-22.01667],"type":"Point"}
+  "geometry": {"coordinates":[29.36667,-22.01667],"type":"Point"}
 }

@@ -50,7 +50,7 @@
         "wk:page":"Bembezi"
     },
     "wof:country":"ZW",
-    "wof:geomhash":"38fd14eed62794c95069a2bea7019057",
+    "wof:geomhash":"ff553f84a9165f88478bcf290be75b2c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,5 +76,5 @@
     28.93333,
     -20.0
 ],
-  "geometry": {"coordinates":[28.93333,-20.0],"type":"Point"}
+  "geometry": {"coordinates":[28.93333,-20],"type":"Point"}
 }
