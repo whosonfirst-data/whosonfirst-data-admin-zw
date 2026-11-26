@@ -1,0 +1,74 @@
+{
+  "id": 9895090064,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.66206,-19.22669,31.66206,-19.22669",
+    "geom:latitude":-19.22669,
+    "geom:longitude":31.66206,
+    "iso:country":"ZW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12047251: name \"Muchuweni\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12047251"
+        },
+        {
+            "citation":"GeoNames populated place 12047251: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12047251"
+        },
+        {
+            "citation":"GeoNames populated place 12047251: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12047251"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890416491 (Buhera), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243,
+        85681113,
+        102191573,
+        890416491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12047251
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"41802dc0d84baa746e644bdf7a664e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416491,
+            "locality_id":9895090064,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":9895090064,
+    "wof:lastmodified":1795735179,
+    "wof:name":"Muchuweni",
+    "wof:parent_id":890416491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.66206,
+    -19.22669,
+    31.66206,
+    -19.22669
+],
+  "geometry": {"coordinates":[31.66206,-19.22669],"type":"Point"}
+}

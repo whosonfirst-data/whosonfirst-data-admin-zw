@@ -1,0 +1,74 @@
+{
+  "id": 9895090061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.6804,-22.06941,31.6804,-22.06941",
+    "geom:latitude":-22.06941,
+    "geom:longitude":31.6804,
+    "iso:country":"ZW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 881671: name \"Sango\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/881671"
+        },
+        {
+            "citation":"GeoNames populated place 881671: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/881671"
+        },
+        {
+            "citation":"GeoNames populated place 881671: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/881671"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890428881 (Chiredzi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243,
+        85681127,
+        102191573,
+        890428881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":881671
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"570ac3dd4d4d5d981aa6939b1994ec48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890428881,
+            "locality_id":9895090061,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":9895090061,
+    "wof:lastmodified":1795735179,
+    "wof:name":"Sango",
+    "wof:parent_id":890428881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.6804,
+    -22.06941,
+    31.6804,
+    -22.06941
+],
+  "geometry": {"coordinates":[31.6804,-22.06941],"type":"Point"}
+}

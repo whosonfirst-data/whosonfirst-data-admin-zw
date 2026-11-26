@@ -1,0 +1,74 @@
+{
+  "id": 9895090071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1971,-17.70071,30.1971,-17.70071",
+    "geom:latitude":-17.70071,
+    "geom:longitude":30.1971,
+    "iso:country":"ZW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12450844: name \"Murombedzi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12450844"
+        },
+        {
+            "citation":"GeoNames populated place 12450844: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12450844"
+        },
+        {
+            "citation":"GeoNames populated place 12450844: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12450844"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108784913 (Zvimba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243,
+        85681131,
+        102191573,
+        1108784913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12450844
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"69354b83a75fc2d77f33af13a52805bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784913,
+            "locality_id":9895090071,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":9895090071,
+    "wof:lastmodified":1795735179,
+    "wof:name":"Murombedzi",
+    "wof:parent_id":1108784913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1971,
+    -17.70071,
+    30.1971,
+    -17.70071
+],
+  "geometry": {"coordinates":[30.1971,-17.70071],"type":"Point"}
+}
