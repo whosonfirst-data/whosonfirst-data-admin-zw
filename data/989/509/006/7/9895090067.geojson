@@ -1,0 +1,74 @@
+{
+  "id": 9895090067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.70453,-19.49293,31.70453,-19.49293",
+    "geom:latitude":-19.49293,
+    "geom:longitude":31.70453,
+    "iso:country":"ZW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12047302: name \"Njarima\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12047302"
+        },
+        {
+            "citation":"GeoNames populated place 12047302: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12047302"
+        },
+        {
+            "citation":"GeoNames populated place 12047302: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12047302"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890416491 (Buhera), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243,
+        85681113,
+        102191573,
+        890416491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12047302
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"fbeca84b40c413724e7717fb7616da1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416491,
+            "locality_id":9895090067,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":9895090067,
+    "wof:lastmodified":1795735179,
+    "wof:name":"Njarima",
+    "wof:parent_id":890416491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.70453,
+    -19.49293,
+    31.70453,
+    -19.49293
+],
+  "geometry": {"coordinates":[31.70453,-19.49293],"type":"Point"}
+}

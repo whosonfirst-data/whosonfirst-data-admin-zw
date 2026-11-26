@@ -1,0 +1,75 @@
+{
+  "id": 9895090075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.35259,-20.94999,29.35259,-20.94999",
+    "geom:latitude":-20.94999,
+    "geom:longitude":29.35259,
+    "gn:population":50,
+    "iso:country":"ZW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13645792: name \"Khumalo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13645792"
+        },
+        {
+            "citation":"GeoNames populated place 13645792: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13645792"
+        },
+        {
+            "citation":"GeoNames populated place 13645792: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13645792"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890416475 (Gwanda), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243,
+        85681117,
+        102191573,
+        890416475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13645792
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"6f7afb80d3d358cd8e8b22cb17d8e9e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416475,
+            "locality_id":9895090075,
+            "region_id":85681117
+        }
+    ],
+    "wof:id":9895090075,
+    "wof:lastmodified":1795735179,
+    "wof:name":"Khumalo",
+    "wof:parent_id":890416475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.35259,
+    -20.94999,
+    29.35259,
+    -20.94999
+],
+  "geometry": {"coordinates":[29.35259,-20.94999],"type":"Point"}
+}

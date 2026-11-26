@@ -1,0 +1,74 @@
+{
+  "id": 9895090065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.71595,-19.37564,31.71595,-19.37564",
+    "geom:latitude":-19.37564,
+    "geom:longitude":31.71595,
+    "iso:country":"ZW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12047291: name \"Mudanda\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12047291"
+        },
+        {
+            "citation":"GeoNames populated place 12047291: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12047291"
+        },
+        {
+            "citation":"GeoNames populated place 12047291: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12047291"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890416491 (Buhera), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243,
+        85681113,
+        102191573,
+        890416491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12047291
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"ea9778e770b258d0c3096b33871edb6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416491,
+            "locality_id":9895090065,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":9895090065,
+    "wof:lastmodified":1795735179,
+    "wof:name":"Mudanda",
+    "wof:parent_id":890416491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.71595,
+    -19.37564,
+    31.71595,
+    -19.37564
+],
+  "geometry": {"coordinates":[31.71595,-19.37564],"type":"Point"}
+}

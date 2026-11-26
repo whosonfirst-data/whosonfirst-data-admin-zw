@@ -1,0 +1,74 @@
+{
+  "id": 9895090062,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.14969,-16.99286,31.14969,-16.99286",
+    "geom:latitude":-16.99286,
+    "geom:longitude":31.14969,
+    "iso:country":"ZW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11822469: name \"Mhombera Estate\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11822469"
+        },
+        {
+            "citation":"GeoNames populated place 11822469: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11822469"
+        },
+        {
+            "citation":"GeoNames populated place 11822469: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11822469"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890416465 (Mazowe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243,
+        85681093,
+        102191573,
+        890416465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11822469
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"b538328eae6d48f580e62cfcc974eb1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416465,
+            "locality_id":9895090062,
+            "region_id":85681093
+        }
+    ],
+    "wof:id":9895090062,
+    "wof:lastmodified":1795735179,
+    "wof:name":"Mhombera Estate",
+    "wof:parent_id":890416465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.14969,
+    -16.99286,
+    31.14969,
+    -16.99286
+],
+  "geometry": {"coordinates":[31.14969,-16.99286],"type":"Point"}
+}
